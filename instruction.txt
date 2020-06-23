@@ -1,0 +1,7 @@
+Values Formats:
+int:16
+float:16.5
+list:[a,b,c]
+tuple:(a,b,c)
+dictionary:{1:a,2:b,3:[c,d]}
+cmbination:[a,{2:b},[c,d],(e,f)]  or [{a:[b,(c,d)]}]
