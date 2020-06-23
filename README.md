@@ -2,7 +2,7 @@
 
 ### Run redis.py and follow instructions.
 
-#### List of attribute:
+#### List of attributes:
         - SET Key value  --> Adding a key value element to file e.g:  SET name zahra
         - GET key  --> Get value of a specific key e.g:  GET name
         - GET_SET keys  ---> Get sets of values for sets of keys : GET_SET name,age
@@ -10,7 +10,7 @@
         - SAVE  --> Save file
         - EXIT  --> Exit and log out
         
- #### Data type as value:
+ #### Data types as value:
          - int
          - float
          - list
