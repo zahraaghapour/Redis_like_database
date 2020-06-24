@@ -13,6 +13,7 @@
  #### Data types as value:
          - int
          - float
+         - string
          - list
          - tuple
          - dictionary
